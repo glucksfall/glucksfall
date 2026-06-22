@@ -35,8 +35,8 @@ I am a bioinformatician and computational biologist working in systems biology, 
 | Pleione | Principal developer | https://github.com/glucksfall/pleione |
 | Pleiades | Principal developer | https://github.com/glucksfall/pleiades |
 | Sterope | Principal developer | https://github.com/glucksfall/sterope |
-| Alcyone | Principal developer | https://pypi.org/project/alcyone/ |
-| PythonCyc | Maintainer / improved fork | https://github.com/glucksfall/pythoncyc |
+| Alcyone | Principal developer | https://github.com/glucksfall/alcyone |
+| PythonCyc | Maintainer / improved fork | https://pypi.org/project/PythonCyc/ |
 
 ---
 
