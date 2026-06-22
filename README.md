@@ -31,7 +31,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
 | Tool | Role | Link |
 |------|------|------|
 | coralME | Co-developer | https://github.com/jdtibochab/coralme |
-| Atlas | Principal developer | https://github.com/glucksfall/atlas-rbm |
+| Atlas | Principal developer | https://github.com/glucksfall/atlas |
 | Pleione | Principal developer | https://github.com/glucksfall/pleione |
 | Pleiades | Principal developer | https://github.com/glucksfall/pleiades |
 | Sterope | Principal developer | https://github.com/glucksfall/sterope |
