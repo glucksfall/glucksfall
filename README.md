@@ -62,15 +62,15 @@ I am a bioinformatician and computational biologist working in systems biology, 
    Santibáñez-Palominos R, Tibocha-Bonilla JD, Weng Y, Kumar M, Zengler K.  
    *Cell Systems* (2026)
 
-2. **Unveiling organ-specific metabolism of Citrus clementina**  
+2. **Unveiling organ-specific metabolism of *Citrus clementina***  
    Passi A, Tec-Campos D, Kumar M, Tibocha-Bonilla JD, Zuñiga C, Peacock B, Hale A, Santibáñez-Palominos R, Borneman J, Zengler K.  
    *PNAS* (2025)
 
-3. **Model of metabolism and gene expression predicts proteome allocation in Pseudomonas putida**  
+3. **Model of metabolism and gene expression predicts proteome allocation in *Pseudomonas putida***  
    Tibocha-Bonilla JD, Gandhi V, Lieng C, Moyne O, Santibáñez-Palominos R, Zengler K.  
    *npj Systems Biology and Applications* (2025)
 
-4. **Improved production of Taxol® precursors in S. cerevisiae using combinatorial in silico design and metabolic engineering**  
+4. **Improved production of Taxol® precursors in *S. cerevisiae* using combinatorial *in silico* design and metabolic engineering**  
    Malcı K, Santibáñez R, Jonguitud-Borrego N, Santoyo-Garcia JH, Kerkhoven EJ, Rios-Solis L.  
    *Microbial Cell Factories* (2023)
 
@@ -142,7 +142,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
     Adorno-Farias D, Santos JND, González-Arriagada W, Tarquinio S, Santibáñez Palominos RA, Martín AJM, Fernandez-Ramires R.  
     *Brazilian Oral Research* (2023)
 
-20. **Automated generation of context-specific gene regulatory networks with a weighted approach in Drosophila melanogaster**  
+20. **Automated generation of context-specific gene regulatory networks with a weighted approach in *Drosophila melanogaster***  
     Murgas L, Contreras-Riquelme S, Martínez-Hernandez JE, Villaman C, Santibáñez R, Martin AJM.  
     *Interface Focus* (2021)
 
@@ -162,7 +162,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
     Juan D. Tibocha-Bonilla, Rodrigo Santibáñez-Palominos, Yuhan Weng, Manish Kumar, Karsten Zengler.  
     *bioRxiv* (2024)
 
-24. **Automated generation of context-specific Gene Regulatory Networks with a weighted approach in D. melanogaster**  
+24. **Automated generation of context-specific Gene Regulatory Networks with a weighted approach in *D. melanogaster***  
     Leandro Murgas, Sebastian Contreras-Riquelme, J. Eduardo Martínez, Camilo Villaman, Rodrigo Santibáñez, Alberto J.M. Martin.  
     *bioRxiv* (2020)
 
@@ -183,7 +183,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
 <details>
 <summary><b>Conference presentations (7)</b></summary>
 
-1. **Development and interrogation of a metabolic and gene expression model at genome scale for Synechocystis PCC 6803**  
+1. **Development and interrogation of a metabolic and gene expression model at genome scale for *Synechocystis* PCC 6803**  
    Santibáñez-Palominos R, Tibocha-Bonilla JD, Zengler K.  
    *15th Workshop on Cyanobacteria* (2025)  
    📍 [Vanderbilt University, Nashville, Tennessee, USA](https://www.google.com/maps/search/?api=1&query=Vanderbilt+University+Nashville+Tennessee)  
@@ -191,7 +191,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
    📊 Slides: [PDF](talks/2025-15th_Workshop_on_Cyanobacteria-slides.pdf)  
    📝 Abstract: [PDF](talks/2025-15th_Workshop_on_Cyanobacteria-abstract.pdf)
 
-2. **iSynME: Development and interrogation of a computational model of the Synechocystis PCC 6803 metabolism and gene expression at genome scale**  
+2. ***i*SynME: Development and interrogation of a computational model of the *Synechocystis* PCC 6803 metabolism and gene expression at genome scale**  
    Santibáñez-Palominos R, Tibocha-Bonilla JD, Zengler K.  
    *CyanoWorld Online Seminar* (2022)  
    📍 Online seminar  
@@ -215,7 +215,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
    📊 Slides: [PDF](talks/2019-ISMB_ECCB_SysMod-slides.pdf)  
    📝 Abstract: [PDF](talks/2019-ISMB_ECCB_SysMod-abstract.pdf)
 
-5. **Stochastic Modeling of Gene Regulatory Networks in Escherichia coli**  
+5. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
    Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
    *4th International Synthetic & Systems Biology Summer School (SSBSS)* (July 17–21, 2017)  
    📍 [Robinson College, University of Cambridge, Cambridge, UK](https://www.google.com/maps/search/?api=1&query=Robinson+College+University+of+Cambridge)  
@@ -223,7 +223,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
    📊 Slides: [PDF](talks/2017-SSBSS-slides.pdf)  
    📝 Abstract: [PDF](talks/2017-SSBSS-abstract.pdf)
 
-6. **Stochastic Modeling of Gene Regulatory Networks in Escherichia coli**  
+6. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
    Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
    *13th International Society for Computational Biology Student Council Symposium (ISCB SCS)* (July 21, 2017)  
    📍 [Prague Congress Centre, Prague, Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague+Congress+Centre+Czech+Republic)  
@@ -231,7 +231,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
    📊 Slides: [PDF](talks/2017-ISCB_SCS-slides.pdf)  
    📝 Abstract: [PDF](talks/2017-ISCB_SCS-abstract.pdf)
 
-7. **Modeling and Stochastic Simulation of Gene Regulatory Networks in Escherichia coli**  
+7. **Modeling and Stochastic Simulation of Gene Regulatory Networks in *Escherichia coli***  
    Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
    *3rd ISCB UK Regional Student Group’s Bioinformatics Student Symposium (SymBioSys17)* (August 2017)  
    📍 [Aberystwyth University, Aberystwyth, UK](https://www.google.com/maps/search/?api=1&query=Aberystwyth+University+Aberystwyth+UK)  
@@ -305,7 +305,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
    📊 Poster: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-poster.pdf)  
    📝 Abstract: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-abstract.pdf)
 
-9. **Stochastic Modeling of Gene Regulation of Escherichia coli K-12**  
+9. **Stochastic Modeling of Gene Regulation of *Escherichia coli* K-12**  
    Santibáñez R, Garrido D, Martin AJM.  
    *XXIV Congreso Latinoamericano de Microbiología (ALAM2018)* (2018)  
    📍 [CentroParque, Parque Araucano, Santiago, Chile](https://www.google.com/maps/search/?api=1&query=CentroParque+Parque+Araucano+Santiago+Chile)  
@@ -326,28 +326,28 @@ I am a bioinformatician and computational biologist working in systems biology, 
     📊 Poster: [PDF](posters/2018-ECCB-poster.pdf)  
     📝 Abstract: [PDF](posters/2018-ECCB-abstract.pdf)
 
-12. **Stochastic Modeling of Gene Regulatory Networks in Escherichia coli**  
+12. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
     *2nd International Conference in Bioinformatics, Simulations and Modeling (iCBSM)* (2017)  
     📍 [Universidad de Talca, Talca, Chile](https://www.google.com/maps/search/?api=1&query=Universidad+de+Talca+Talca+Chile)  
     📊 Poster: [PDF](posters/2017-iCBSM-poster.pdf)  
     📝 Abstract: [PDF](posters/2017-iCBSM-abstract.pdf)
 
-13. **Modeling and Stochastic Simulation of Gene Regulatory Networks in Escherichia coli**  
+13. **Modeling and Stochastic Simulation of Gene Regulatory Networks in *Escherichia coli***  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
     *3rd ISCB UK Regional Student Group's Bioinformatics Student Symposium (SymBioSys17)* (August 2017)  
     📍 [Aberystwyth University, Aberystwyth, UK](https://www.google.com/maps/search/?api=1&query=Aberystwyth+University+Aberystwyth+UK)  
     📊 Poster: [PDF](posters/2017-SymBioSys17-poster.pdf)  
     📝 Abstract: [PDF](posters/2017-SymBioSys17-abstract.pdf)
 
-14. **Stochastic Modeling of Gene Regulatory Networks in Escherichia coli**  
+14. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
     *13th International Society for Computational Biology Student Council Symposium (ISCB SCS) and the 25th Intelligent Systems for Molecular Biology & the 16th European Conference on Computational Biology (Joint Conference)* (July 21, 2017)  
     📍 [Prague Congress Centre, Prague, Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague+Congress+Centre+Prague+Czech+Republic)  
     📊 Poster: [PDF](posters/2017-ISMB_ECCB_SCS-poster.pdf)  
     📝 Abstract: [PDF](posters/2017-ISMB_ECCB_SCS-abstract.pdf)
 
-15. **Stochastic Modeling of Gene Regulatory Networks in Escherichia coli**  
+15. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
     *4th International Synthetic & Systems Biology Summer School (SSBSS)* (July 17–21, 2017)  
     📍 [Robinson College, University of Cambridge, Cambridge, UK](https://www.google.com/maps/search/?api=1&query=Robinson+College+University+of+Cambridge)  
