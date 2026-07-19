@@ -60,35 +60,35 @@ I am a bioinformatician and computational biologist working in systems biology, 
 
 1. **Metabolism and gene expression models for the microbiome reveal how diet and metabolic dysbiosis impact disease**  
    Santibáñez-Palominos R, Tibocha-Bonilla JD, Weng Y, Kumar M, Zengler K.  
-   *Cell Systems* (2026)
+   [*Cell Systems*](https://doi.org/10.1016/j.cels.2025.101451) (2026)
 
 2. **Unveiling organ-specific metabolism of *Citrus clementina***  
    Passi A, Tec-Campos D, Kumar M, Tibocha-Bonilla JD, Zuñiga C, Peacock B, Hale A, Santibáñez-Palominos R, Borneman J, Zengler K.  
-   *PNAS* (2025)
+   [*Proceedings of the National Academy of Sciences*](https://doi.org/10.1073/pnas.2503406122) (2025)
 
 3. **Model of metabolism and gene expression predicts proteome allocation in *Pseudomonas putida***  
    Tibocha-Bonilla JD, Gandhi V, Lieng C, Moyne O, Santibáñez-Palominos R, Zengler K.  
-   *npj Systems Biology and Applications* (2025)
+   [*npj Systems Biology and Applications*](https://doi.org/10.1038/s41540-025-00429-z) (2025)
 
 4. **Improved production of Taxol® precursors in *S. cerevisiae* using combinatorial *in silico* design and metabolic engineering**  
    Malcı K, Santibáñez R, Jonguitud-Borrego N, Santoyo-Garcia JH, Kerkhoven EJ, Rios-Solis L.  
-   *Microbial Cell Factories* (2023)
+   [*Microbial Cell Factories*](https://doi.org/10.1186/s12934-023-02254-1) (2023)
 
 5. **Atlas: automatic modeling of regulation of bacterial gene expression and metabolism using rule-based languages**  
    Santibáñez R, Garrido D, Martin AJM.  
-   *Bioinformatics* (2021)
+   [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btaa661) (2021)
 
 6. **Accessing the Role of Trust Profiles for the Economic Growth of Societies: A Stochastic Rule-Based Simulation Using the Prisoner's Dilemma Game**  
    Monares P, Liu JH, Santibañez R, Bernardin A, Fuenzalida I, Perez-Acle T, Zhang RJ.  
-   *IEEE Transactions on Computational Social Systems* (2020)
+   [*IEEE Transactions on Computational Social Systems*](https://doi.org/10.1109/TCSS.2020.2992039) (2020)
 
 7. **Pleione: A tool for statistical and multi-objective calibration of Rule-based models**  
    Santibáñez R, Garrido D, Martin AJM.  
-   *Scientific Reports* (2019)
+   [*Scientific Reports*](https://doi.org/10.1038/s41598-019-51546-6) (2019)
 
 8. **Stochastic simulation of multiscale complex systems with PISKaS: A rule-based approach**  
    Perez-Acle T, Fuenzalida I, Martin AJM, Santibáñez R, Avaria R, Bernardin A, Bustos AM, Garrido D, Dushoff J, Liu JH.  
-   *Biochemical and Biophysical Research Communications* (2018)
+   [*Biochemical and Biophysical Research Communications*](https://doi.org/10.1016/j.bbrc.2018.03.116) (2018)
 
 ---
 
@@ -96,39 +96,39 @@ I am a bioinformatician and computational biologist working in systems biology, 
 
 9. **Influence of Florfenicol Treatments on Marine-Sediment Microbiomes: A Metagenomic Study of Bacterial Communities in Proximity to Salmon Aquaculture in Southern Chile**  
    Lynch S, Thomson P, Santibáñez R, Avendaño-Herrera R.  
-   *Antibiotics* (2025)
+   [*Antibiotics*](https://doi.org/10.3390/antibiotics14101016) (2025)
 
 10. **Impact of Periodontal Disease on the Oral Microbiome of Cats**  
     Thomson P, Santibáñez R, Garrido D, Iturriaga MP, Flores C.  
-    *Current Microbiology* (2025)
+    [*Current Microbiology*](https://doi.org/10.1007/s00284-025-04216-y) (2025)
 
 11. **Preliminary Functional Analysis of the Gut Microbiome in Colic Horses**  
     Thomson P, Garrido D, Santibáñez R, Lara F.  
-    *Animals (Basel)* (2024)
+    [*Animals*](https://doi.org/10.3390/ani14223222) (2024)
 
 12. **Characterization of microbial communities and predicted metabolic pathways in the uterus of healthy mares**  
     Thomson P, Pareja J, Núñez A, Santibáñez R, Castro R.  
-    *Open Veterinary Journal* (2022)
+    [*Open Veterinary Journal*](https://doi.org/10.5455/OVJ.2022.v12.i6.13) (2022)
 
 13. **Ocular Microbiome in a Group of Clinically Healthy Horses**  
     Santibáñez R, Lara F, Barros TM, Mardones E, Cuadra F, Thomson P.  
-    *Animals (Basel)* (2022)
+    [*Animals*](https://doi.org/10.3390/ani12080943) (2022)
 
-14. **Isolation and Identification of Staphylococcus Species Obtained from Healthy Companion Animals and Humans**  
+14. **Isolation and Identification of *Staphylococcus* Species Obtained from Healthy Companion Animals and Humans**  
     Thomson P, García P, Miles J, Isla D, Yáñez C, Santibáñez R, Núñez A, Flores-Yáñez C, Del Río C, Cuadra F.  
-    *Veterinary Sciences* (2022)
+    [*Veterinary Sciences*](https://doi.org/10.3390/vetsci9020079) (2022)
 
 15. **Differences in the composition and predicted functions of the intestinal microbiome of obese and normal weight adult dogs**  
-    Thomson P, Santibáñez R, Rodríguez-Salas C, Flores-Yañez C, Garrido D.  
-    *PeerJ* (2022)
+    Thomson P, Santibáñez R, Rodríguez-Salas C, Flores-Yáñez C, Garrido D.  
+    [*PeerJ*](https://doi.org/10.7717/peerj.12695) (2022)
 
 16. **Assessment of Changes in the Oral Microbiome That Occur in Dogs with Periodontal Disease**  
     Santibáñez R, Rodríguez-Salas C, Flores-Yáñez C, Garrido D, Thomson P.  
-    *Veterinary Sciences* (2021)
+    [*Veterinary Sciences*](https://doi.org/10.3390/vetsci8120291) (2021)
 
 17. **Short-term impact of sucralose consumption on the metabolic response and gut microbiome of healthy adults**  
-    Thomson P, Santibañez R, Aguirre C, Galgani JE, Garrido D.  
-    *British Journal of Nutrition* (2019)
+    Thomson P, Santibáñez R, Aguirre C, Galgani JE, Garrido D.  
+    [*British Journal of Nutrition*](https://doi.org/10.1017/S0007114519001570) (2019)
 
 ---
 
@@ -136,43 +136,43 @@ I am a bioinformatician and computational biologist working in systems biology, 
 
 18. **First metagenomic analysis of the Andean condor gut microbiome reveals microbial diversity and wide resistome**  
     Martinez-Hernandez JE, Berrios P, Santibáñez R, Cuesta Astroz Y, Sanchez C, Martin AJM, Trombert AN.  
-    *PeerJ* (2023)
+    [*PeerJ*](https://doi.org/10.7717/peerj.15235) (2023)
 
 19. **Whole-exome sequencing of oral epithelial dysplasia samples reveals an association with new genes**  
-    Adorno-Farias D, Santos JND, González-Arriagada W, Tarquinio S, Santibáñez Palominos RA, Martín AJM, Fernandez-Ramires R.  
-    *Brazilian Oral Research* (2023)
+    Adorno-Farias D, Santos JND, González-Arriagada W, Tarquinio S, Santibáñez-Palominos RA, Martín AJM, Fernandez-Ramires R.  
+    [*Brazilian Oral Research*](https://doi.org/10.1590/1807-3107bor-2023.vol37.0016) (2023)
 
 20. **Automated generation of context-specific gene regulatory networks with a weighted approach in *Drosophila melanogaster***  
     Murgas L, Contreras-Riquelme S, Martínez-Hernandez JE, Villaman C, Santibáñez R, Martin AJM.  
-    *Interface Focus* (2021)
+    [*Interface Focus*](https://doi.org/10.1098/rsfs.2020.0076) (2021)
 
 ---
 
 ### Other topics, Book Chapters, Preprints & Technical Reports
 
 21. **Leveraging AI to generate fast and accurate surrogate models of bacteria to predict processes in terrestrial systems**  
-    Juan D. Tibocha-Bonilla, Rodrigo Santibáñez-Palominos, Maxwell Neal, Karsten Zengler.  
-    Available online (2025)
+    Tibocha-Bonilla JD, Santibáñez-Palominos R, Neal M, Zengler K.  
+    [*ORAU Envisioning Scientific Partnerships Symposium*](https://www.orau.gov/support_files/2025Envisioning/ZenglerK_UCSD-Karsten_Zengler.pdf) (2025)
 
 22. **FROG Analysis Ensures the Reproducibility of Genome Scale Metabolic Models**  
-    Karthik Raman, Miroslav Kratochvíl, Brett G. Olivier, Matthias König, Pratyay Sengupta, Dinesh Kumar Kuppa Baskaran, Tung V N Nguyen, Daniel Lobo, St Elmo Wilken, Krishna Kumar Tiwari, Aswathy K. Raghu, Indumathi Palanikumar, Lavanya Raajaraam, Maziya Ibrahim, Sanjaay Balakrishnan, Shreyansh Umale, Frank Bergmann, Tanisha Malpani, Venkata P Satagopam, Reinhard Schneider, Moritz E. Beber, Sarah Keating, Mihail Anton, Alina Renz, Meiyappan Lakshmanan, Dong-Yup Lee, Lokanand Koduru, Reihaneh Mostolizadeh, Oscar Dias, Emanuel Cunha, Alexandre Oliveira, Yi Qing Lee, Karsten Zengler, Rodrigo Santibáñez-Palominos, Manish Kumar, Matteo Barberis, Bhanwar Lal Puniya, Tomáš Helikar, Hoang V. Dinh, Patrick F. Suthers, Costas D. Maranas, Isabella Casini, Seyed Babak Loghmani, Nadine Veith, Nantia Leonidou, Feiran Li, Yu Chen, Jens Nielsen, GaRyoung Lee, Sang Mi Lee, Gi Bae Kim, Pedro T. Monteiro, Miguel C. Teixeira, Hyun Uk Kim, Sang Yup Lee, Ulf W. Liebal, Lars M. Blank, Christian Lieven, Chaimaa Tarzi, Claudio Angione, Manga Enuh Blaise, Çelik Pınar Aytar, Mikhail Kulyashov, llya Akberdin, Dohyeon Kim, Sung Ho Yoon, Zhaohui Xu, Jyotshana Gautam, William T. Scott Jr., Peter J. Schaap, Jasper J. Koehorst, Cristal Zuñiga, Gabriela Canto-Encalada, Sara Benito-Vaquerizo, Ivette Parera Olm, Maria Suarez-Diez, Qianqian Yuan, Hongwu Ma, Mohammad Mazharul Islam, Jason A. Papin, Francisco Zorrilla, Kiran Raosaheb Patil, Arianna Basile, Juan Nogales, Granado San León, Freddy Castillo-Alfonso, Roberto Olivares-Hernández, Gabriela Canto-Encalada, Gabriel Vigueras-Ramírez, Henning Hermjakob, Andreas Dräger, Rahuman S Malik-Sheriff.  
-    *bioRxiv* (2024)
+    Raman K, Kratochvíl M, Olivier BG, König M, Sengupta P, Kuppa Baskaran DK, Nguyen TVN, Lobo D, Wilken SE, Tiwari KK, Raghu AK, Palanikumar I, Raajaraam L, Ibrahim M, Balakrishnan S, Umale S, Bergmann F, Malpani T, Satagopam VP, Schneider R, Beber ME, Keating S, Anton M, Renz A, Lakshmanan M, Lee DY, Koduru L, Mostolizadeh R, Dias O, Cunha E, Oliveira A, Lee YQ, Zengler K, Santibáñez-Palominos R, Kumar M, Barberis M, Puniya BL, Helikar T, Dinh HV, Suthers PF, Maranas CD, Casini I, Loghmani SB, Veith N, Leonidou N, Li F, Chen Y, Nielsen J, Lee G, Lee SM, Kim GB, Monteiro PT, Teixeira MC, Kim HU, Lee SY, Liebal UW, Blank LM, Lieven C, Tarzi C, Angione C, Blaise ME, Aytar ÇP, Kulyashov M, Akberdin I, Kim D, Yoon SH, Xu Z, Gautam J, Scott WT Jr., Schaap PJ, Koehorst JJ, Zuñiga C, Canto-Encalada G, Benito-Vaquerizo S, Parera Olm I, Suarez-Diez M, Yuan Q, Ma H, Islam MM, Papin JA, Zorrilla F, Patil KR, Basile A, Nogales J, Granado San León, Castillo-Alfonso F, Olivares-Hernández R, Canto-Encalada G, Vigueras-Ramírez G, Hermjakob H, Dräger A, Malik-Sheriff RS.  
+    [*bioRxiv*](https://doi.org/10.1101/2024.09.24.614797) (2024)
 
 23. **Proteome allocation of the microbiome reveals how diet and metabolic dysbiosis impact disease**  
-    Juan D. Tibocha-Bonilla, Rodrigo Santibáñez-Palominos, Yuhan Weng, Manish Kumar, Karsten Zengler.  
-    *bioRxiv* (2024)
+    Tibocha-Bonilla JD, Santibáñez-Palominos R, Weng Y, Kumar M, Zengler K.  
+    [*bioRxiv*](https://doi.org/10.1101/2024.11.21.624724) (2024)
 
 24. **Automated generation of context-specific Gene Regulatory Networks with a weighted approach in *D. melanogaster***  
-    Leandro Murgas, Sebastian Contreras-Riquelme, J. Eduardo Martínez, Camilo Villaman, Rodrigo Santibáñez, Alberto J.M. Martin.  
-    *bioRxiv* (2020)
+    Murgas L, Contreras-Riquelme S, Martínez JE, Villaman C, Santibáñez R, Martin AJM.  
+    [*bioRxiv*](https://doi.org/10.1101/2020.08.03.232959) (2020)
 
 25. **Rule-Based Models and Applications in Biology**  
-    Á. Bustos, I. Fuenzalida, Rodrigo Santibáñez, T. Pérez-Acle, Alberto J.M. Martin.  
-    *Methods in Molecular Biology, Vol. 1819* (2018)
+    Bustos Á, Fuenzalida I, Santibáñez R, Pérez-Acle T, Martin AJM.  
+    [*Methods in Molecular Biology, Vol. 1819*](https://doi.org/10.1007/978-1-4939-8618-7_1) (2018)
 
 26. **Shared and differential traits in the accessory olfactory bulb of caviomorph rodents with particular reference to the semiaquatic capybara**  
-    Suárez R, Santibáñez R, Parra D, Coppi AA, Abrahão LMB, Sasahara THC, Mpodozis J.  
-    *Journal of Anatomy* (2011)
+    Suárez R, Santibáñez R, Parra D, Coppi AA, Abrahão LM, Sasahara TH, Mpodozis J.  
+    [*Journal of Anatomy*](https://doi.org/10.1111/j.1469-7580.2011.01382.x) (2011)
 
 </details>
 
