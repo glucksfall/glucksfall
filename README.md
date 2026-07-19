@@ -108,7 +108,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
 
 12. **Characterization of microbial communities and predicted metabolic pathways in the uterus of healthy mares**  
     Thomson P, Pareja J, Núñez A, Santibáñez R, Castro R.  
-    [*Open Veterinary Journal*](https://doi.org/10.5455/OVJ.2022.v12.i6.13) (2022)
+    [*Open Veterinary Journal*](https://doi.org/10.5455/OVJ.2022.v12.i6.3) (2022)
 
 13. **Ocular Microbiome in a Group of Clinically Healthy Horses**  
     Santibáñez R, Lara F, Barros TM, Mardones E, Cuadra F, Thomson P.  
