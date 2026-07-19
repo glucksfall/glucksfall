@@ -172,7 +172,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
 
 26. **Shared and differential traits in the accessory olfactory bulb of caviomorph rodents with particular reference to the semiaquatic capybara**  
     Suárez R, Santibáñez R, Parra D, Coppi AA, Abrahão LM, Sasahara TH, Mpodozis J.  
-    [*Journal of Anatomy*](https://doi.org/10.1111/j.1469-7580.2011.01382.x) (2011)
+    [*Journal of Anatomy*](https://doi.org/10.1111/j.1469-7580.2011.01357.x) (2011)
 
 </details>
 
