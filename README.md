@@ -68,15 +68,15 @@ I am a bioinformatician and computational biologist working in systems biology, 
 
 3. **Model of metabolism and gene expression predicts proteome allocation in *Pseudomonas putida***  
    Tibocha-Bonilla JD, Gandhi V, Lieng C, Moyne O, Santibáñez-Palominos R, Zengler K.  
-   [*npj Systems Biology and Applications*](https://doi.org/10.1038/s41540-025-00429-z) (2025)
+   [*npj Systems Biology and Applications*](https://doi.org/10.1038/s41540-025-00521-1) (2025)
 
 4. **Improved production of Taxol® precursors in *S. cerevisiae* using combinatorial *in silico* design and metabolic engineering**  
    Malcı K, Santibáñez R, Jonguitud-Borrego N, Santoyo-Garcia JH, Kerkhoven EJ, Rios-Solis L.  
-   [*Microbial Cell Factories*](https://doi.org/10.1186/s12934-023-02254-1) (2023)
+   [*Microbial Cell Factories*](https://doi.org/10.1186/s12934-023-02251-7) (2023)
 
 5. **Atlas: automatic modeling of regulation of bacterial gene expression and metabolism using rule-based languages**  
    Santibáñez R, Garrido D, Martin AJM.  
-   [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btaa661) (2021)
+   [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btaa1040) (2021)
 
 6. **Accessing the Role of Trust Profiles for the Economic Growth of Societies: A Stochastic Rule-Based Simulation Using the Prisoner's Dilemma Game**  
    Monares P, Liu JH, Santibañez R, Bernardin A, Fuenzalida I, Perez-Acle T, Zhang RJ.  
@@ -88,7 +88,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
 
 8. **Stochastic simulation of multiscale complex systems with PISKaS: A rule-based approach**  
    Perez-Acle T, Fuenzalida I, Martin AJM, Santibáñez R, Avaria R, Bernardin A, Bustos AM, Garrido D, Dushoff J, Liu JH.  
-   [*Biochemical and Biophysical Research Communications*](https://doi.org/10.1016/j.bbrc.2018.03.116) (2018)
+   [*Biochemical and Biophysical Research Communications*](https://doi.org/10.1016/j.bbrc.2017.11.138) (2018)
 
 ---
 
