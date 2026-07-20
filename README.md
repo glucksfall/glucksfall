@@ -286,10 +286,10 @@ I am a bioinformatician and computational biologist working in systems biology, 
 
 6.  **Modeling Bacterial Metabolism and Expression to Develop Biocontainment Strategies**  
     Santibáñez-Palominos R, Tibocha-Bonilla JD, Estefan B, Arianpour B, Patel K, Zuñiga C, Zengler K, Guarnieri M.  
-    *DOE Genomic Sciences Program Annual Meeting*   
+    *DOE Genomic Sciences Program Annual Meeting* (2022)   
     📍 Virtual Meeting  
     📊 Poster: [PDF](posters/2022-DOE_GSP-poster.pdf)  
-    📝 Abstract: [PDF](posters/2022-DOE_GSP-abstract.pdf)
+    📝 Abstract: [PDF](posters/2022-DOE_GSP-abstract.pdf) and [WWW](https://www.genomicscience.energy.gov/wp-content/uploads/2022/03/2022abstractsbook.pdf)
 
 7.  **Pleiades Toolkit: Automatic rule-based modeling of bacterial gene regulation enables simulation, prediction, and perturbation of gene responses**  
     Santibáñez R, Garrido D, Martin AJM.  
