@@ -275,7 +275,7 @@ I am a bioinformatician and computational biologist working in systems biology, 
     *DOE Genomic Sciences Program Annual Meeting* (2024)  
     📍 [Bethesda North Marriott Hotel & Conference Center, Bethesda, Maryland, USA](https://www.google.com/maps/search/?api=1&query=Bethesda+North+Marriott+Hotel+and+Conference+Center)  
     📊 Poster: [PDF](posters/2024-DOE_GSP-poster.pdf)  
-    📝 Abstract: [PDF](posters/2024-DOE_GSP-abstract.pdf)
+    📝 Abstract: [PDF](posters/2024-DOE_GSP-abstract.pdf) and [WWW](https://www.genomicscience.energy.gov/abstract/computational-modeling-to-enable-predictive-secure-biosystems-designs/)
 
 5.  **Automated Pipeline to Accelerate the Reconstruction of Metabolism and Gene Expression Models**  
     Santibáñez-Palominos R, Tibocha-Bonilla JD, Zengler K.  
