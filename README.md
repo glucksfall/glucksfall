@@ -9,7 +9,7 @@
 
 ## About Me
 
-I am a bioinformatician and computational biologist working in systems biology, genome-scale metabolic modeling, microbiome analysis, and scientific software development. My work focuses on integrating mechanistic models and multi-omics data to understand metabolism and gene regulation across biological systems.
+I am a bioinformatician and computational biologist working in systems biology. I develop computational methods and open-source software for genome-scale metabolic modeling, metabolism and expression (ME) models, microbiome, and multi-omics integration. My work combines mechanistic modeling and high-performance computing to study metabolism across microbial communities and engineered biological systems.
 
 ### Research Interests
 
@@ -31,11 +31,11 @@ I am a bioinformatician and computational biologist working in systems biology, 
 | Tool | Role | Link |
 |------|------|------|
 | coralME | Co-developer | https://github.com/jdtibochab/coralme |
-| Atlas | Principal developer | https://github.com/glucksfall/atlas |
-| Pleione | Principal developer | https://github.com/glucksfall/pleione |
-| Pleiades | Principal developer | https://github.com/glucksfall/pleiades |
-| Sterope | Principal developer | https://github.com/glucksfall/sterope |
-| Alcyone | Principal developer | https://github.com/glucksfall/alcyone |
+| Atlas | Lead developer | https://github.com/glucksfall/atlas |
+| Pleione | Lead developer | https://github.com/glucksfall/pleione |
+| Pleiades | Lead developer | https://github.com/glucksfall/pleiades |
+| Sterope | Lead developer | https://github.com/glucksfall/sterope |
+| Alcyone | Lead developer | https://github.com/glucksfall/alcyone |
 | PythonCyc | Maintainer / improved fork | https://pypi.org/project/PythonCyc/ |
 
 ---
