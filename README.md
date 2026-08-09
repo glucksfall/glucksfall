@@ -194,7 +194,7 @@ I am a bioinformatician and computational biologist working in systems biology. 
    Santibáñez-Palominos R, Tibocha-Bonilla JD, Zengler K.  
    *CyanoWorld Online Seminar* (2022)  
    📍 Online seminar  
-   📄 Proceedings: [WWW](https://www.cyano.world/seminar)
+   📄 Proceedings: [WWW](https://www.cyano.world/seminar)  
    📊 Slides: [PDF](talks/2022-CyanoWorld_Online_Seminar-slides.pdf)
 
 3. **An automatically reconstructed model of bacterial gene regulation enables simulation, prediction, and perturbation of gene responses**  
