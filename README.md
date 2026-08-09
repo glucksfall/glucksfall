@@ -187,7 +187,6 @@ I am a bioinformatician and computational biologist working in systems biology. 
    Santibáñez-Palominos R, Tibocha-Bonilla JD, Zengler K.  
    *15th Workshop on Cyanobacteria* (2025)  
    📍 [Vanderbilt University, Nashville, Tennessee, USA](https://www.google.com/maps/search/?api=1&query=Vanderbilt+University+Nashville+Tennessee)  
-   📄 Proceedings: [PDF](talks/2025-15th_Workshop_on_Cyanobacteria-proceedings.pdf)  
    📊 Slides: [PDF](talks/2025-15th_Workshop_on_Cyanobacteria-slides.pdf)  
    📝 Abstract: [PDF](talks/2025-15th_Workshop_on_Cyanobacteria-abstract.pdf)
 
@@ -195,9 +194,8 @@ I am a bioinformatician and computational biologist working in systems biology. 
    Santibáñez-Palominos R, Tibocha-Bonilla JD, Zengler K.  
    *CyanoWorld Online Seminar* (2022)  
    📍 Online seminar  
-   📄 Proceedings: [PDF](talks/2022-CyanoWorld_Online_Seminar-proceedings.pdf)  
-   📊 Slides: [PDF](talks/2022-CyanoWorld_Online_Seminar-slides.pdf)  
-   📝 Abstract: [PDF](talks/2022-CyanoWorld_Online_Seminar-abstract.pdf)
+   📄 Proceedings: [WWW](https://www.cyano.world/seminar)
+   📊 Slides: [PDF](talks/2022-CyanoWorld_Online_Seminar-slides.pdf)
 
 3. **An automatically reconstructed model of bacterial gene regulation enables simulation, prediction, and perturbation of gene responses**  
    Santibáñez R, Garrido D, Martin AJM.  
@@ -209,34 +207,39 @@ I am a bioinformatician and computational biologist working in systems biology. 
 
 4. **Pleiades Toolkit: Automatic rule-based modeling of bacterial gene regulation enables simulation, prediction, and perturbation of gene responses**  
    Santibáñez R, Garrido D, Martin AJM.  
-   *15th International Society for Computational Biology Student Council Symposium (ISCB SCS) and Computational Modeling of Biological Systems (SysMod) Community of Special Interest (COSI), 27th Intelligent Systems for Molecular Biology & the 18th European Conference on Computational Biology (Joint Conference)* (July 21–25, 2019)  
-   📍 [Congress Center Basel, Basel, Switzerland](https://www.google.com/maps/search/?api=1&query=Congress+Center+Basel+Switzerland)  
-   📄 Proceedings: [PDF](talks/2019-ISMB_ECCB_SysMod-proceedings.pdf)  
+   *27th Intelligent Systems for Molecular Biology & the 18th European Conference on Computational Biology (Joint Conference)* (July 21–25, 2019)  
+   📍 [Congress Center Basel, Basel, Switzerland](https://www.google.com/maps/search/?api=1&query=Congress+Center+Basel+Switzerland)
+   📄 Proceedings: [WWW](https://www.iscb.org/ismbeccb2019/call-for-submissions/proceedings)  
    📊 Slides: [PDF](talks/2019-ISMB_ECCB_SysMod-slides.pdf)  
    📝 Abstract: [PDF](talks/2019-ISMB_ECCB_SysMod-abstract.pdf)
 
-5. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
+6. **Pleiades Toolkit: Automatic rule-based modeling of bacterial gene regulation enables simulation, prediction, and perturbation of gene responses**  
+   Santibáñez R, Garrido D, Martin AJM.  
+   *15th International Society for Computational Biology Student Council Symposium (ISCB SCS)* (July 21–25, 2019)  
+   📍 [Congress Center Basel, Basel, Switzerland](https://www.google.com/maps/search/?api=1&query=Congress+Center+Basel+Switzerland)  
+   📊 Slides: [PDF](talks/2019-ISMB_ECCB_SCS-slides.pdf)  
+   📝 Abstract: [PDF](talks/2019-ISMB_ECCB_SCS-abstract.pdf)
+
+7. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
    Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
    *4th International Synthetic & Systems Biology Summer School (SSBSS)* (July 17–21, 2017)  
    📍 [Robinson College, University of Cambridge, Cambridge, UK](https://www.google.com/maps/search/?api=1&query=Robinson+College+University+of+Cambridge)  
-   📄 Proceedings: [PDF](talks/2017-SSBSS-proceedings.pdf)  
+   📄 Proceedings: [WWW](https://ssbss2017.taosciences.org/)  
    📊 Slides: [PDF](talks/2017-SSBSS-slides.pdf)  
    📝 Abstract: [PDF](talks/2017-SSBSS-abstract.pdf)
 
-6. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
+8. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
    Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
    *13th International Society for Computational Biology Student Council Symposium (ISCB SCS)* (July 21, 2017)  
    📍 [Prague Congress Centre, Prague, Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague+Congress+Centre+Czech+Republic)  
-   📄 Proceedings: [PDF](talks/2017-ISCB_SCS-proceedings.pdf)  
    📊 Slides: [PDF](talks/2017-ISCB_SCS-slides.pdf)  
    📝 Abstract: [PDF](talks/2017-ISCB_SCS-abstract.pdf)
 
-7. **Modeling and Stochastic Simulation of Gene Regulatory Networks in *Escherichia coli***  
+9. **Modeling and Stochastic Simulation of Gene Regulatory Networks in *Escherichia coli***  
    Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
    *3rd ISCB UK Regional Student Group’s Bioinformatics Student Symposium (SymBioSys17)* (August 2017)  
    📍 [Aberystwyth University, Aberystwyth, UK](https://www.google.com/maps/search/?api=1&query=Aberystwyth+University+Aberystwyth+UK)  
-   📄 Proceedings: [PDF](talks/2017-SymBioSys17-proceedings.pdf)  
-   📊 Slides: [PDF](talks/2017-SymBioSys17-slides.pdf)  
+   📊 Slides: [PPTX](talks/2017-SymBioSys17-slides.pptx)  
    📝 Abstract: [PDF](talks/2017-SymBioSys17-abstract.pdf)
 
 </details>
@@ -289,72 +292,73 @@ I am a bioinformatician and computational biologist working in systems biology. 
     *DOE Genomic Sciences Program Annual Meeting* (2022)   
     📍 Virtual Meeting  
     📊 Poster: [PDF](posters/2022-DOE_GSP-poster.pdf)  
-    📝 Abstract: [PDF](posters/2022-DOE_GSP-abstract.pdf) and [WWW](https://www.genomicscience.energy.gov/wp-content/uploads/2022/03/2022abstractsbook.pdf)
+    📝 Abstract: [PDF](posters/2022-DOE_GSP-abstract.pdf) 
+    📄 Proceedings: [PDF](posters/2022-DOE_GSP-proceedings.pdf) and [WWW](https://www.genomicscience.energy.gov/wp-content/uploads/2022/03/2022abstractsbook.pdf)
 
-7.  **Pleiades Toolkit: Automatic rule-based modeling of bacterial gene regulation enables simulation, prediction, and perturbation of gene responses**  
+8.  **Pleiades Toolkit: Automatic rule-based modeling of bacterial gene regulation enables simulation, prediction, and perturbation of gene responses**  
     Santibáñez R, Garrido D, Martin AJM.  
     *15th ISCB SCS and SysMod COSI, ISMB/ECCB Joint Conference* (2019)  
     📍 [Congress Center Basel, Basel, Switzerland](https://www.google.com/maps/search/?api=1&query=Congress+Center+Basel+Switzerland)  
     📊 Poster: [PDF](posters/2019-ISMB_ECCB_SysMod-poster.pdf)  
     📝 Abstract: [PDF](posters/2019-ISMB_ECCB_SysMod-abstract.pdf)
 
-8. **Reconstrucción de Modelos de Regulación Génica y Calibración usando Computación de Alto Rendimiento**  
+9. **Reconstrucción de Modelos de Regulación Génica y Calibración usando Computación de Alto Rendimiento**  
    Santibáñez R, Garrido D, Martin AJM.  
    *XIV Seminario Internacional Inteligencia Artificial Fundación COPEC-UC (International Seminar COPEC-UC: Artificial Intelligence)* (2018)  
    📍 [Centro de Extensión UC, Pontificia Universidad Católica de Chile, Santiago, Chile](https://www.google.com/maps/search/?api=1&query=Centro+de+Extension+UC+Pontificia+Universidad+Catolica+de+Chile+Santiago+Chile)  
-   📊 Poster: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-poster.pdf)  
-   📝 Abstract: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-abstract.pdf)
+   📊 Poster: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-poster.pdf) (Spanish Only)  
+   📝 Abstract: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-abstract.pdf) (Spanish Only)
 
-9. **Stochastic Modeling of Gene Regulation of *Escherichia coli* K-12**  
+10. **Stochastic Modeling of Gene Regulation of *Escherichia coli* K-12**  
    Santibáñez R, Garrido D, Martin AJM.  
    *XXIV Congreso Latinoamericano de Microbiología (ALAM2018)* (2018)  
    📍 [CentroParque, Parque Araucano, Santiago, Chile](https://www.google.com/maps/search/?api=1&query=CentroParque+Parque+Araucano+Santiago+Chile)  
    📊 Poster: [PDF](posters/2018-ALAM2018-poster.pdf)  
    📝 Abstract: [PDF](posters/2018-ALAM2018-abstract.pdf)
 
-10. **Automatic Reconstruction of Rule-Based Gene Regulatory Network Models and its Calibration**  
+11. **Automatic Reconstruction of Rule-Based Gene Regulatory Network Models and its Calibration**  
     Santibáñez R, Garrido D, Martin AJM.  
     *5th ISCB-LA SOIBIO EMBnet Joint Bioinformatics Conference and 3rd Latin America Student Council Symposium* (2018)  
     📍 [Universidad Andrés Bello, Viña del Mar, Chile](https://www.google.com/maps/search/?api=1&query=Universidad+Andres+Bello+Vina+del+Mar+Chile)  
     📊 Poster: [PDF](posters/2018-ISCB_LA_SOIBIO_EMBnet-poster.pdf)  
     📝 Abstract: [PDF](posters/2018-ISCB_LA_SOIBIO_EMBnet-abstract.pdf)
 
-11. **Automatic Rule-Based Model Reconstruction and Model Calibration of a Gene Regulatory Network**  
+12. **Automatic Rule-Based Model Reconstruction and Model Calibration of a Gene Regulatory Network**  
     Santibáñez R, Garrido D, Martin AJM.  
     *5th European Student Council Symposium and 17th European Conference on Computational Biology (ECCB 2018)* (2018)  
     📍 [Stavros Niarchos Foundation Cultural Center, Athens, Greece](https://www.google.com/maps/search/?api=1&query=Stavros+Niarchos+Foundation+Cultural+Center+Athens+Greece)  
     📊 Poster: [PDF](posters/2018-ECCB-poster.pdf)  
     📝 Abstract: [PDF](posters/2018-ECCB-abstract.pdf)
 
-12. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
+13. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
     *2nd International Conference in Bioinformatics, Simulations and Modeling (iCBSM)* (2017)  
     📍 [Universidad de Talca, Talca, Chile](https://www.google.com/maps/search/?api=1&query=Universidad+de+Talca+Talca+Chile)  
     📊 Poster: [PDF](posters/2017-iCBSM-poster.pdf)  
     📝 Abstract: [PDF](posters/2017-iCBSM-abstract.pdf)
 
-13. **Modeling and Stochastic Simulation of Gene Regulatory Networks in *Escherichia coli***  
+14. **Modeling and Stochastic Simulation of Gene Regulatory Networks in *Escherichia coli***  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
     *3rd ISCB UK Regional Student Group's Bioinformatics Student Symposium (SymBioSys17)* (August 2017)  
     📍 [Aberystwyth University, Aberystwyth, UK](https://www.google.com/maps/search/?api=1&query=Aberystwyth+University+Aberystwyth+UK)  
     📊 Poster: [PDF](posters/2017-SymBioSys17-poster.pdf)  
     📝 Abstract: [PDF](posters/2017-SymBioSys17-abstract.pdf)
 
-14. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
+15. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
     *13th International Society for Computational Biology Student Council Symposium (ISCB SCS) and the 25th Intelligent Systems for Molecular Biology & the 16th European Conference on Computational Biology (Joint Conference)* (July 21, 2017)  
     📍 [Prague Congress Centre, Prague, Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague+Congress+Centre+Prague+Czech+Republic)  
     📊 Poster: [PDF](posters/2017-ISMB_ECCB_SCS-poster.pdf)  
     📝 Abstract: [PDF](posters/2017-ISMB_ECCB_SCS-abstract.pdf)
 
-15. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
+16. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
     *4th International Synthetic & Systems Biology Summer School (SSBSS)* (July 17–21, 2017)  
     📍 [Robinson College, University of Cambridge, Cambridge, UK](https://www.google.com/maps/search/?api=1&query=Robinson+College+University+of+Cambridge)  
     📊 Poster: [PDF](posters/2017-SSBSS-poster.pdf)  
     📝 Abstract: [PDF](posters/2017-SSBSS-abstract.pdf)
 
-16. **Reconstruction of Gene Regulatory Models from data and their calibration with High-Performance Computing**  
+17. **Reconstruction of Gene Regulatory Models from data and their calibration with High-Performance Computing**  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
     *XII Seminario Internacional de Bioingeniería Fundación COPEC-UC (COPEC-UC International Seminar: Bioengineering)* (2017)  
     📍 [Centro de Extensión UC, Pontificia Universidad Católica de Chile, Santiago, Chile](https://www.google.com/maps/search/api=1&query=Centro+de+Extension+UC+Pontificia+Universidad+Catolica+de+Chile+Santiago+Chile)  
