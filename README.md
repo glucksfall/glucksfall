@@ -208,19 +208,19 @@ I am a bioinformatician and computational biologist working in systems biology. 
 4. **Pleiades Toolkit: Automatic rule-based modeling of bacterial gene regulation enables simulation, prediction, and perturbation of gene responses**  
    Santibáñez R, Garrido D, Martin AJM.  
    *27th Intelligent Systems for Molecular Biology & the 18th European Conference on Computational Biology (Joint Conference)* (July 21–25, 2019)  
-   📍 [Congress Center Basel, Basel, Switzerland](https://www.google.com/maps/search/?api=1&query=Congress+Center+Basel+Switzerland)
+   📍 [Congress Center Basel, Basel, Switzerland](https://www.google.com/maps/search/?api=1&query=Congress+Center+Basel+Switzerland)  
    📄 Proceedings: [WWW](https://www.iscb.org/ismbeccb2019/call-for-submissions/proceedings)  
    📊 Slides: [PDF](talks/2019-ISMB_ECCB_SysMod-slides.pdf)  
    📝 Abstract: [PDF](talks/2019-ISMB_ECCB_SysMod-abstract.pdf)
 
-6. **Pleiades Toolkit: Automatic rule-based modeling of bacterial gene regulation enables simulation, prediction, and perturbation of gene responses**  
+5. **Pleiades Toolkit: Automatic rule-based modeling of bacterial gene regulation enables simulation, prediction, and perturbation of gene responses**  
    Santibáñez R, Garrido D, Martin AJM.  
    *15th International Society for Computational Biology Student Council Symposium (ISCB SCS)* (July 21–25, 2019)  
    📍 [Congress Center Basel, Basel, Switzerland](https://www.google.com/maps/search/?api=1&query=Congress+Center+Basel+Switzerland)  
    📊 Slides: [PDF](talks/2019-ISMB_ECCB_SCS-slides.pdf)  
    📝 Abstract: [PDF](talks/2019-ISMB_ECCB_SCS-abstract.pdf)
 
-7. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
+6. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
    Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
    *4th International Synthetic & Systems Biology Summer School (SSBSS)* (July 17–21, 2017)  
    📍 [Robinson College, University of Cambridge, Cambridge, UK](https://www.google.com/maps/search/?api=1&query=Robinson+College+University+of+Cambridge)  
@@ -228,14 +228,14 @@ I am a bioinformatician and computational biologist working in systems biology. 
    📊 Slides: [PDF](talks/2017-SSBSS-slides.pdf)  
    📝 Abstract: [PDF](talks/2017-SSBSS-abstract.pdf)
 
-8. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
+7. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
    Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
    *13th International Society for Computational Biology Student Council Symposium (ISCB SCS)* (July 21, 2017)  
    📍 [Prague Congress Centre, Prague, Czech Republic](https://www.google.com/maps/search/?api=1&query=Prague+Congress+Centre+Czech+Republic)  
    📊 Slides: [PDF](talks/2017-ISCB_SCS-slides.pdf)  
    📝 Abstract: [PDF](talks/2017-ISCB_SCS-abstract.pdf)
 
-9. **Modeling and Stochastic Simulation of Gene Regulatory Networks in *Escherichia coli***  
+8. **Modeling and Stochastic Simulation of Gene Regulatory Networks in *Escherichia coli***  
    Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
    *3rd ISCB UK Regional Student Group’s Bioinformatics Student Symposium (SymBioSys17)* (August 2017)  
    📍 [Aberystwyth University, Aberystwyth, UK](https://www.google.com/maps/search/?api=1&query=Aberystwyth+University+Aberystwyth+UK)  
