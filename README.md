@@ -181,7 +181,7 @@ I am a bioinformatician and computational biologist working in systems biology. 
 ## 🎤 Talks & Conference Presentations
 
 <details>
-<summary><b>Conference presentations (7)</b></summary>
+<summary><b>Conference presentations (8)</b></summary>
 
 1. **Development and interrogation of a metabolic and gene expression model at genome scale for *Synechocystis* PCC 6803**  
    Santibáñez-Palominos R, Tibocha-Bonilla JD, Zengler K.  
