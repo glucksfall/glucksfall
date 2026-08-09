@@ -237,7 +237,7 @@ I am a bioinformatician and computational biologist working in systems biology. 
 
 8. **Modeling and Stochastic Simulation of Gene Regulatory Networks in *Escherichia coli***  
    Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
-   *3rd ISCB UK Regional Student Group’s Bioinformatics Student Symposium (SymBioSys17)* (August 2017)  
+   *3rd ISCB UK Regional Student Group’s Bioinformatics Student Symposium (SymBioSys17)* (August 11, 2017)  
    📍 [Aberystwyth University, Aberystwyth, UK](https://www.google.com/maps/search/?api=1&query=Aberystwyth+University+Aberystwyth+UK)  
    📊 Slides: [PPTX](talks/2017-SymBioSys17-slides.pptx)  
    📝 Abstract: [PDF](talks/2017-SymBioSys17-abstract.pdf)
@@ -256,7 +256,7 @@ I am a bioinformatician and computational biologist working in systems biology. 
     *DOE Genomic Sciences Program Annual Meeting* (2026)  
     📍 [Hyatt Regency Crystal City at Reagan National Airport, Arlington, Virginia, USA](https://www.google.com/maps/search/?api=1&query=Hyatt+Regency+Crystal+City+at+Reagan+National+Airport)  
     🌐 https://genomicscience.energy.gov/nrel-imagine/  
-    📊 Poster: [PDF](posters/2026-DOE_GSP-poster.pdf)  
+    📊 Poster: [JPG](posters/2026-DOE_GSP-poster.jpg)  
     📝 Abstract: [PDF](posters/2026-DOE_GSP-abstract.pdf)  
 
 2.  **Advanced Integrative Computational Tools for Predictive Design and Simulation of Secure Biosystems**  
@@ -285,7 +285,7 @@ I am a bioinformatician and computational biologist working in systems biology. 
     *9th Conference on Constraint-Based Reconstruction and Analysis (COBRA)* (2024)  
     📍 [Omni San Diego Hotel, San Diego, California, USA](https://www.google.com/maps/search/?api=1&query=Omni+San+Diego+Hotel)  
     📊 Poster: [PDF](posters/2024-COBRA-poster.pdf)  
-    📝 Abstract: [PDF](posters/2024-COBRA-abstract.pdf)
+    📝 Abstract: [PDF](posters/2024-COBRA-abstract.pdf) and [WWW](https://aiche.confex.com/aiche/cobra24/meetingapp.cgi/Paper/696101)
 
 6.  **Modeling Bacterial Metabolism and Expression to Develop Biocontainment Strategies**  
     Santibáñez-Palominos R, Tibocha-Bonilla JD, Estefan B, Arianpour B, Patel K, Zuñiga C, Zengler K, Guarnieri M.  
@@ -302,12 +302,12 @@ I am a bioinformatician and computational biologist working in systems biology. 
     📊 Poster: [PDF](posters/2019-ISMB_ECCB_SysMod-poster.pdf)  
     📝 Abstract: [PDF](posters/2019-ISMB_ECCB_SysMod-abstract.pdf)
 
-9. **Reconstrucción de Modelos de Regulación Génica y Calibración usando Computación de Alto Rendimiento**  
+9. **Reconstruction of Gene Regulatory Models from data and their calibration with High-Performance Computing**  
    Santibáñez R, Garrido D, Martin AJM.  
    *XIV Seminario Internacional Inteligencia Artificial Fundación COPEC-UC (International Seminar COPEC-UC: Artificial Intelligence)* (2018)  
    📍 [Centro de Extensión UC, Pontificia Universidad Católica de Chile, Santiago, Chile](https://www.google.com/maps/search/?api=1&query=Centro+de+Extension+UC+Pontificia+Universidad+Catolica+de+Chile+Santiago+Chile)  
-   📊 Poster: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-poster.pdf) (Spanish Only)  
-   📝 Abstract: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-abstract.pdf) (Spanish Only)
+   📊 Poster: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-poster.pdf) (Spanish)  
+   📝 Abstract: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-abstract.pdf) (English)
 
 10. **Stochastic Modeling of Gene Regulation of *Escherichia coli* K-12**  
    Santibáñez R, Garrido D, Martin AJM.  
@@ -339,7 +339,7 @@ I am a bioinformatician and computational biologist working in systems biology. 
 
 14. **Modeling and Stochastic Simulation of Gene Regulatory Networks in *Escherichia coli***  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
-    *3rd ISCB UK Regional Student Group's Bioinformatics Student Symposium (SymBioSys17)* (August 2017)  
+    *3rd ISCB UK Regional Student Group's Bioinformatics Student Symposium (SymBioSys17)* (August 11, 2017)  
     📍 [Aberystwyth University, Aberystwyth, UK](https://www.google.com/maps/search/?api=1&query=Aberystwyth+University+Aberystwyth+UK)  
     📊 Poster: [PDF](posters/2017-SymBioSys17-poster.pdf)  
     📝 Abstract: [PDF](posters/2017-SymBioSys17-abstract.pdf)
@@ -358,12 +358,12 @@ I am a bioinformatician and computational biologist working in systems biology. 
     📊 Poster: [PDF](posters/2017-SSBSS-poster.pdf)  
     📝 Abstract: [PDF](posters/2017-SSBSS-abstract.pdf)
 
-17. **Reconstruction of Gene Regulatory Models from data and their calibration with High-Performance Computing**  
+17. **Simulación estocástica de redes de regulación genéticas de la bacteria *Escherichia coli* y su aplicación en bioingeniería**  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
-    *XII Seminario Internacional de Bioingeniería Fundación COPEC-UC (COPEC-UC International Seminar: Bioengineering)* (2017)  
+    *XII Seminario Internacional de Bioingeniería Fundación COPEC-UC (COPEC-UC International Seminar: Bioengineering)* (2016)  
     📍 [Centro de Extensión UC, Pontificia Universidad Católica de Chile, Santiago, Chile](https://www.google.com/maps/search/api=1&query=Centro+de+Extension+UC+Pontificia+Universidad+Catolica+de+Chile+Santiago+Chile)  
-    📊 Poster: [PDF](posters/2017-COPEC_UC_Bioengineering-poster.pdf)  
-    📝 Abstract: [PDF](posters/2017-COPEC_UC_Bioengineering-abstract.pdf)
+    📊 Poster: [PDF](posters/2016-COPEC_UC_Bioengineering-poster.pdf) (Spanish)  
+    📝 Abstract: [PDF](posters/2016-COPEC_UC_Bioengineering-abstract.pdf) (Spanish)
 
 </details>
 
