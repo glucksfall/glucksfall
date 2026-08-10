@@ -249,11 +249,11 @@ I am a bioinformatician and computational biologist working in systems biology. 
 ## 🖼️ Poster Presentations
 
 <details>
-<summary><b>Poster presentations (16)</b></summary>
+<summary><b>Poster presentations (17)</b></summary>
 
 1.  **Advanced Integrative Computational Tools for Predictive Design and Simulation of Secure Biosystems**  
     Santibáñez-Palominos R, Tibocha-Bonilla JD, Neal M, Yang B, Wu C, Sebesta J, Yu J, Xiong W, Zengler K, Guarnieri M.  
-    *DOE Genomic Sciences Program Annual Meeting* (2026)  
+    *Biological Systems Science Division (BSSD) Annual Principal Investigator (PI) Meeting* (February 23–25, 2026)  
     📍 [Hyatt Regency Crystal City at Reagan National Airport, Arlington, Virginia, USA](https://www.google.com/maps/search/?api=1&query=Hyatt+Regency+Crystal+City+at+Reagan+National+Airport)  
     🌐 https://genomicscience.energy.gov/nrel-imagine/  
     📊 Poster: [JPG](posters/2026-DOE_GSP-poster.jpg)  
@@ -261,78 +261,86 @@ I am a bioinformatician and computational biologist working in systems biology. 
 
 2.  **Advanced Integrative Computational Tools for Predictive Design and Simulation of Secure Biosystems**  
     Santibáñez-Palominos R, Tibocha-Bonilla JD, Neal M, Yang B, Wu C, Sebesta J, Yu J, Xiong W, Zengler K, Guarnieri M.  
-    *DOE Genomic Sciences Program Annual Meeting* (2025)  
+    *Biological Systems Science Division (BSSD) Annual Principal Investigator (PI) Meeting* (March 31–April 2, 2025)  
     📍 [Hyatt Regency Crystal City at Reagan National Airport, Arlington, Virginia, USA](https://www.google.com/maps/search/?api=1&query=Hyatt+Regency+Crystal+City+at+Reagan+National+Airport)  
     📊 Poster: [PDF](posters/2025-DOE_GSP-poster.pdf)  
     📝 Abstract: [PDF](posters/2025-DOE_GSP-abstract.pdf)  
 
 3.  **coralME - An automated pipeline to accelerate the reconstruction of metabolism and gene expression models for microbiome research**  
     Santibáñez-Palominos R, Tibocha-Bonilla JD, Zengler K.  
-    *Center for Microbiome Innovation International Microbiome Meeting (CIMM)* (2025)  
+    *Center for Microbiome Innovation International Microbiome Meeting (CIMM)* (March 11–13, 2025)  
     📍 [Robert Paine Scripps Forum for Science, Society and the Environment Auditorium, Scripps Institution of Oceanography, La Jolla, California, USA](https://www.google.com/maps/search/?api=1&query=Robert+Paine+Scripps+Forum+for+Science+Society+and+the+Environment)  
     📊 Poster: [PDF](posters/2025-CIMM-poster.pdf)  
     📝 Abstract: [PDF](posters/2025-CIMM-abstract.pdf)
 
 4.  **Computational Modeling to Enable Predictive Secure Biosystems Designs**  
     Santibáñez-Palominos R, Tibocha-Bonilla JD, Yang B, Wu C, Yu J, Xiong W, Zengler K, Guarnieri M.  
-    *DOE Genomic Sciences Program Annual Meeting* (2024)  
+    *Biological Systems Science Division (BSSD) Annual Principal Investigator (PI) Meeting* (April 15–18, 2024)  
     📍 [Bethesda North Marriott Hotel & Conference Center, Bethesda, Maryland, USA](https://www.google.com/maps/search/?api=1&query=Bethesda+North+Marriott+Hotel+and+Conference+Center)  
     📊 Poster: [PDF](posters/2024-DOE_GSP-poster.pdf)  
     📝 Abstract: [PDF](posters/2024-DOE_GSP-abstract.pdf) and [WWW](https://www.genomicscience.energy.gov/abstract/computational-modeling-to-enable-predictive-secure-biosystems-designs/)
 
 5.  **Automated Pipeline to Accelerate the Reconstruction of Metabolism and Gene Expression Models**  
     Santibáñez-Palominos R, Tibocha-Bonilla JD, Zengler K.  
-    *9th Conference on Constraint-Based Reconstruction and Analysis (COBRA)* (2024)  
+    *9th Conference on Constraint-Based Reconstruction and Analysis (COBRA)* (October 24–26, 2024)  
     📍 [Omni San Diego Hotel, San Diego, California, USA](https://www.google.com/maps/search/?api=1&query=Omni+San+Diego+Hotel)  
     📊 Poster: [PDF](posters/2024-COBRA-poster.pdf)  
     📝 Abstract: [PDF](posters/2024-COBRA-abstract.pdf) and [WWW](https://aiche.confex.com/aiche/cobra24/meetingapp.cgi/Paper/696101)
 
 6.  **Modeling Bacterial Metabolism and Expression to Develop Biocontainment Strategies**  
     Santibáñez-Palominos R, Tibocha-Bonilla JD, Estefan B, Arianpour B, Patel K, Zuñiga C, Zengler K, Guarnieri M.  
-    *DOE Genomic Sciences Program Annual Meeting* (2022)   
+    *Biological Systems Science Division (BSSD) Joint Genomic Science Program (GSP) and Bioimaging Science Program (BSP) Annual Principal Investigator (PI) Meeting* (February 22–24, 2022)  
     📍 Virtual Meeting  
     📊 Poster: [PDF](posters/2022-DOE_GSP-poster.pdf)  
-    📝 Abstract: [PDF](posters/2022-DOE_GSP-abstract.pdf) 
+    📝 Abstract: [PDF](posters/2022-DOE_GSP-abstract.pdf)  
     📄 Proceedings: [PDF](posters/2022-DOE_GSP-proceedings.pdf) and [WWW](https://www.genomicscience.energy.gov/wp-content/uploads/2022/03/2022abstractsbook.pdf)
+
+7.  **Atlas: automatic modeling of regulation of bacterial gene expression and metabolism using rule-based languages**  
+    Santibáñez R, Garrido D, Martin A.  
+    *1era Reunión de la Sociedad Chilena de Bioinformática* (January 13–14, 2022)  
+    📍 Virtual Meeting  
+    📊 Poster: [PDF](posters/2022-SCB_Atlas-poster.pdf)  
+    📝 Abstract: [PDF](posters/2022-SCB_Atlas-abstract.pdf)  
+    📄 Proceedings: [PDF](posters/2022-SCB_Atlas-proceedings.pdf) and [WWW](https://www.scbioinfo.cl/_files/ugd/72a4ab_0f52ab5c9d684d878f6495dc6db8d431.pdf)
 
 8.  **Pleiades Toolkit: Automatic rule-based modeling of bacterial gene regulation enables simulation, prediction, and perturbation of gene responses**  
     Santibáñez R, Garrido D, Martin AJM.  
-    *15th ISCB SCS and SysMod COSI, ISMB/ECCB Joint Conference* (2019)  
+    *15th ISCB SCS and SysMod COSI, ISMB/ECCB Joint Conference* (July 22, 2019)  
     📍 [Congress Center Basel, Basel, Switzerland](https://www.google.com/maps/search/?api=1&query=Congress+Center+Basel+Switzerland)  
     📊 Poster: [PDF](posters/2019-ISMB_ECCB_SysMod-poster.pdf)  
     📝 Abstract: [PDF](posters/2019-ISMB_ECCB_SysMod-abstract.pdf)
 
-9. **Reconstruction of Gene Regulatory Models from data and their calibration with High-Performance Computing**  
-   Santibáñez R, Garrido D, Martin AJM.  
-   *XIV Seminario Internacional Inteligencia Artificial Fundación COPEC-UC (International Seminar COPEC-UC: Artificial Intelligence)* (2018)  
-   📍 [Centro de Extensión UC, Pontificia Universidad Católica de Chile, Santiago, Chile](https://www.google.com/maps/search/?api=1&query=Centro+de+Extension+UC+Pontificia+Universidad+Catolica+de+Chile+Santiago+Chile)  
-   📊 Poster: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-poster.pdf) (Spanish)  
-   📝 Abstract: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-abstract.pdf) (English)
+9.  **Reconstruction of Gene Regulatory Models from data and their calibration with High-Performance Computing**  
+    Santibáñez R, Garrido D, Martin AJM.  
+    *XIV Seminario Internacional Inteligencia Artificial Fundación COPEC-UC (International Seminar COPEC-UC: Artificial Intelligence)* (November 22, 2018)  
+    📍 [Centro de Extensión UC, Pontificia Universidad Católica de Chile, Santiago, Chile](https://www.google.com/maps/search/?api=1&query=Centro+de+Extension+UC+Pontificia+Universidad+Catolica+de+Chile+Santiago+Chile)  
+    📊 Poster: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-poster.pdf) (Spanish)  
+    📝 Abstract: [PDF](posters/2018-COPEC_UC_Artificial_Intelligence-abstract.pdf) (English)
 
 10. **Stochastic Modeling of Gene Regulation of *Escherichia coli* K-12**  
-   Santibáñez R, Garrido D, Martin AJM.  
-   *XXIV Congreso Latinoamericano de Microbiología (ALAM2018)* (2018)  
-   📍 [CentroParque, Parque Araucano, Santiago, Chile](https://www.google.com/maps/search/?api=1&query=CentroParque+Parque+Araucano+Santiago+Chile)  
-   📊 Poster: [PDF](posters/2018-ALAM2018-poster.pdf)  
-   📝 Abstract: [PDF](posters/2018-ALAM2018-abstract.pdf)
+    Santibáñez R, Garrido D, Martin AJM.  
+    *XXIV Congreso Latinoamericano de Microbiología (ALAM2018)* (November 13–16, 2018)  
+    📍 [CentroParque, Parque Araucano, Santiago, Chile](https://www.google.com/maps/search/?api=1&query=CentroParque+Parque+Araucano+Santiago+Chile)  
+    📊 Poster: [PDF](posters/2018-ALAM2018-poster.pdf)  
+    📝 Abstract: [PDF](posters/2018-ALAM2018-abstract.pdf)
 
 11. **Automatic Reconstruction of Rule-Based Gene Regulatory Network Models and its Calibration**  
     Santibáñez R, Garrido D, Martin AJM.  
-    *5th ISCB-LA SOIBIO EMBnet Joint Bioinformatics Conference and 3rd Latin America Student Council Symposium* (2018)  
+    *5th ISCB-LA SOIBIO EMBnet Joint Bioinformatics Conference and 3rd Latin America Student Council Symposium* (November 5–9, 2018)  
     📍 [Universidad Andrés Bello, Viña del Mar, Chile](https://www.google.com/maps/search/?api=1&query=Universidad+Andres+Bello+Vina+del+Mar+Chile)  
     📊 Poster: [PDF](posters/2018-ISCB_LA_SOIBIO_EMBnet-poster.pdf)  
     📝 Abstract: [PDF](posters/2018-ISCB_LA_SOIBIO_EMBnet-abstract.pdf)
 
 12. **Automatic Rule-Based Model Reconstruction and Model Calibration of a Gene Regulatory Network**  
     Santibáñez R, Garrido D, Martin AJM.  
-    *5th European Student Council Symposium and 17th European Conference on Computational Biology (ECCB 2018)* (2018)  
+    *5th European Student Council Symposium and 17th European Conference on Computational Biology (ECCB 2018)* (September 8, 2018)  
     📍 [Stavros Niarchos Foundation Cultural Center, Athens, Greece](https://www.google.com/maps/search/?api=1&query=Stavros+Niarchos+Foundation+Cultural+Center+Athens+Greece)  
     📊 Poster: [PDF](posters/2018-ECCB-poster.pdf)  
     📝 Abstract: [PDF](posters/2018-ECCB-abstract.pdf)
 
 13. **Stochastic Modeling of Gene Regulatory Networks in *Escherichia coli***  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
-    *2nd International Conference in Bioinformatics, Simulations and Modeling (iCBSM)* (2017)  
+    *2nd International Conference in Bioinformatics, Simulations and Modeling (iCBSM)* (November 20–24, 2017)  
     📍 [Universidad de Talca, Talca, Chile](https://www.google.com/maps/search/?api=1&query=Universidad+de+Talca+Talca+Chile)  
     📊 Poster: [PDF](posters/2017-iCBSM-poster.pdf)  
     📝 Abstract: [PDF](posters/2017-iCBSM-abstract.pdf)
@@ -360,8 +368,8 @@ I am a bioinformatician and computational biologist working in systems biology. 
 
 17. **Simulación estocástica de redes de regulación genéticas de la bacteria *Escherichia coli* y su aplicación en bioingeniería**  
     Santibáñez R, Garrido D, Perez-Acle T, Martin AJM.  
-    *XII Seminario Internacional de Bioingeniería Fundación COPEC-UC (COPEC-UC International Seminar: Bioengineering)* (2016)  
-    📍 [Centro de Extensión UC, Pontificia Universidad Católica de Chile, Santiago, Chile](https://www.google.com/maps/search/api=1&query=Centro+de+Extension+UC+Pontificia+Universidad+Catolica+de+Chile+Santiago+Chile)  
+    *XII Seminario Internacional de Bioingeniería Fundación COPEC-UC (COPEC-UC International Seminar: Bioengineering)* (November 15, 2016)  
+    📍 [Centro de Extensión UC, Pontificia Universidad Católica de Chile, Santiago, Chile](https://www.google.com/maps/search/?api=1&query=Centro+de+Extension+UC+Pontificia+Universidad+Catolica+de+Chile+Santiago+Chile)  
     📊 Poster: [PDF](posters/2016-COPEC_UC_Bioengineering-poster.pdf) (Spanish)  
     📝 Abstract: [PDF](posters/2016-COPEC_UC_Bioengineering-abstract.pdf) (Spanish)
 
